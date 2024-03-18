@@ -9,7 +9,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mikhail-bit219/tea-demonstration-6.git"
-  },"dependencies": {"tea-demonstration-6":"1.0.0","minti_fulkerson": "1.0.4"},
+  },"dependencies": {"tea-demonstration-6":"1.0.0"},
   "author": "",
   "license": "ISC",
   "bugs": {
