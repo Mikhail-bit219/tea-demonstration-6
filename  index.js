@@ -24,4 +24,4 @@ if (isPrime(randomNum)) {
     console.log(randomNum + " is a prime number.");
 } else {
     console.log(randomNum + " is not a prime number.");
-}
+} 
